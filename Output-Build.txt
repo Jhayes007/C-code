@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: CppStrings1, Configuration: Debug Win32 ------
+1>CppStrings1.cpp
+1>E:\C++ files\CStringsExample4\CStringsExample4\CppStrings1.cpp(13,1): error C1004:  unexpected end-of-file found
+1>Done building project "CStringsExample4.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
